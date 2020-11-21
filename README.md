@@ -4,7 +4,7 @@ Peer-to-peer visual cryptography scheme (P-P IVCS)
 This study introduces a visual cryptography scheme called Peer-to-peer visual cryptography scheme (P-P IVCS) which share secrets among the members of a set with arbitrary topology. In the proposed P-P IVCS scheme, the network contains n members that include common secrets among some of them (or all). Only one key is allocated to any member. So maximum number of secrets will be C(n,2). Encoding operation of plain image’s content (that include all of secrets) should contribute some prominent features. First, each single key cannot reveal any secrets. Second, the secret between two participants will be disclosed by superimposing their keys. Third, although there is a common secret between any pair of members, revelation of common secrets is impossible for others. In this method, by adding one member to n-member network, pixel expansion will increase only one unit, whereas, number of secrets will increase up to n units.
 ## Source Code & Data
 * All source code are released in this repository.
-* You can download original images and result files from this [Link]().
+* You can download original images and result files from this [Link](https://github.com/omidshafiei/VC-Scheme/blob/main/vcs_code.m).
 ## Try to do with your own plain image
 Please contact me or submit "issues" in this repository, and I can help you in person
 ## sample key
