@@ -11,7 +11,9 @@ Please contact me or submit "issues" in this repository, and I can help you in p
 ![plain](https://user-images.githubusercontent.com/74077380/99885532-d0f74480-2c4a-11eb-8844-361357572a83.png)
 ## Sample Key
 ![key](https://user-images.githubusercontent.com/74077380/99885536-d6ed2580-2c4a-11eb-9fdf-209099d2bea2.png)
+
 Sample keys have maximum entropy.
 ## Simulation Result
 ![Key11 Key2](https://user-images.githubusercontent.com/74077380/99885538-dbb1d980-2c4a-11eb-8a1c-6f2d57f673f4.png)
+
 Superimposing any two keys would reveals the secret between them.
