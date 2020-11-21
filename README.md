@@ -7,9 +7,11 @@ This study introduces a visual cryptography scheme called Peer-to-peer visual cr
 * You can download original images and result files from this [Link](https://github.com/omidshafiei/VC-Scheme/blob/main/vcs_code.m).
 ## Try to do with your own plain image
 Please contact me or submit "issues" in this repository, and I can help you in person
-## sample plain image
+## Sample Plain Image
 ![plain](https://user-images.githubusercontent.com/74077380/99885532-d0f74480-2c4a-11eb-8844-361357572a83.png)
-## sample key
+## Sample Key
+sample keys have maximum entropy.
 ![key](https://user-images.githubusercontent.com/74077380/99885536-d6ed2580-2c4a-11eb-9fdf-209099d2bea2.png)
 ## Simulation Result
+superimposing the first two keys would reveals the secret.
 ![Key11 Key2](https://user-images.githubusercontent.com/74077380/99885538-dbb1d980-2c4a-11eb-8a1c-6f2d57f673f4.png)
